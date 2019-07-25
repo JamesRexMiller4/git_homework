@@ -1,4 +1,9 @@
 I never said all that S#$% - Confucius
+<<<<<<< HEAD
 Be always ashamed to catch thyself idle
 Nothing humbler than ambition, when it is about to climb
 Tho modesty is a virtue, bashfulness a vice
+=======
+He that cannot obey, cannot command
+What you would seem to be, be really
+>>>>>>> 4e4872ada0a269b913f943eaf4c7b0d536b16ca9
